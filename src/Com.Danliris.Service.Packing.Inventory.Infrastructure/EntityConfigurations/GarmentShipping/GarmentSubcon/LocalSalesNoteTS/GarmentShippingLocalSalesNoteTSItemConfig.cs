@@ -1,4 +1,4 @@
-﻿using Com.Danliris.Service.Packing.Inventory.Data.Models.GarmentShipping.ShippingLocalSalesNoteTS;
+﻿using Com.Danliris.Service.Packing.Inventory.Data.Models.Garmentshipping.ShippingLocalSalesNoteTS;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
